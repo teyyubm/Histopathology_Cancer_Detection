@@ -290,7 +290,7 @@ PR1.03/
 - **RQ5:** Cross-protocol generalization across different cancer types
 
 ## Notes
-
+--- **Kernel Selection:** When opening the notebook, if you see a kernel selection prompt, choose any available **Python 3** kernel. The notebook was created with a custom kernel name (`histo311`) but will work with any standard Python 3 environment that has the required packages installed.
 - The notebook is designed to run end-to-end without errors
 - Model checkpoints are saved to avoid retraining
 - All outputs follow the submission requirements (PDF for figures, Excel for tables)
@@ -316,5 +316,6 @@ For questions or issues, please contact the Technical Lead (Student 1): Teyyub M
 ---
 
 **Last Updated:** January 2026
+
 
 
