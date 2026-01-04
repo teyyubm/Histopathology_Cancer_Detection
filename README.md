@@ -296,15 +296,14 @@ PR1.03/
 - All outputs follow the submission requirements (PDF for figures, Excel for tables)
 - The notebook handles missing variables gracefully with try-except blocks
 
-## Submission Requirements
 
 This repository contains:
-- ✅ Complete Jupyter Notebook (`.ipynb`)
-- ✅ Well-documented code with group information and research questions
-- ✅ Dataset loading and preprocessing
-- ✅ Model implementation (base learner, meta-learner, rule engine)
-- ✅ Experiments answering all five research questions
-- ✅ Properly organized figures and tables
+-  Complete Jupyter Notebook (`.ipynb`)
+-  Well-documented code with group information and research questions
+-  Dataset loading and preprocessing
+-  Model implementation (base learner, meta-learner, rule engine)
+-  Experiments answering all five research questions
+-  Properly organized figures and tables
 
 ## License
 
@@ -316,5 +315,6 @@ For questions or issues, please contact the Technical Lead (Student 1): Teyyub M
 
 ---
 
-**Last Updated:** January 2025
+**Last Updated:** January 2026
+
 
